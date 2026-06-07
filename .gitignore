@@ -1,0 +1,3 @@
+# Ignora file di database grandi
+*.xml
+*.bin
